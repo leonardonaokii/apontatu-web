@@ -29,6 +29,8 @@ Foi separado por responsabilidades, tendo na estrutura as pastas:
   2. Abrir o terminal na pasta do arquivo
   3. Instalar as dependências com o comando "npm i"
   4. Rodar o comando "npm run dev"
+  5. O site responde na porta 5173.
+  6. http://localhost:5173/
 
 Obs: O serviço da api está configurado para chamar a api local na porta 5148, da forma que está configurada no arquivo 
 lauchsettings.json da api em dotnet do repositório: https://github.com/leonardonaokii/apontatu-api
